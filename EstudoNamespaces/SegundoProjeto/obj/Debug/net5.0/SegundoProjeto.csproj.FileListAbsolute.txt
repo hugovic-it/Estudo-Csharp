@@ -1,0 +1,16 @@
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\SegundoProjeto\bin\Debug\net5.0\SegundoProjeto.exe
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\SegundoProjeto\bin\Debug\net5.0\SegundoProjeto.deps.json
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\SegundoProjeto\bin\Debug\net5.0\SegundoProjeto.runtimeconfig.json
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\SegundoProjeto\bin\Debug\net5.0\SegundoProjeto.runtimeconfig.dev.json
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\SegundoProjeto\bin\Debug\net5.0\SegundoProjeto.dll
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\SegundoProjeto\bin\Debug\net5.0\ref\SegundoProjeto.dll
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\SegundoProjeto\bin\Debug\net5.0\SegundoProjeto.pdb
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\SegundoProjeto\obj\Debug\net5.0\SegundoProjeto.csproj.AssemblyReference.cache
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\SegundoProjeto\obj\Debug\net5.0\SegundoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\SegundoProjeto\obj\Debug\net5.0\SegundoProjeto.AssemblyInfoInputs.cache
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\SegundoProjeto\obj\Debug\net5.0\SegundoProjeto.AssemblyInfo.cs
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\SegundoProjeto\obj\Debug\net5.0\SegundoProjeto.csproj.CoreCompileInputs.cache
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\SegundoProjeto\obj\Debug\net5.0\SegundoProjeto.dll
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\SegundoProjeto\obj\Debug\net5.0\ref\SegundoProjeto.dll
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\SegundoProjeto\obj\Debug\net5.0\SegundoProjeto.pdb
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\SegundoProjeto\obj\Debug\net5.0\SegundoProjeto.genruntimeconfig.cache

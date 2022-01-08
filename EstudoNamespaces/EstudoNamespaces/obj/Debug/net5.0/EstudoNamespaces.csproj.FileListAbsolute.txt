@@ -1,0 +1,16 @@
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\EstudoNamespaces\bin\Debug\net5.0\EstudoNamespaces.exe
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\EstudoNamespaces\bin\Debug\net5.0\EstudoNamespaces.deps.json
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\EstudoNamespaces\bin\Debug\net5.0\EstudoNamespaces.runtimeconfig.json
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\EstudoNamespaces\bin\Debug\net5.0\EstudoNamespaces.runtimeconfig.dev.json
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\EstudoNamespaces\bin\Debug\net5.0\EstudoNamespaces.dll
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\EstudoNamespaces\bin\Debug\net5.0\ref\EstudoNamespaces.dll
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\EstudoNamespaces\bin\Debug\net5.0\EstudoNamespaces.pdb
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\EstudoNamespaces\obj\Debug\net5.0\EstudoNamespaces.csproj.AssemblyReference.cache
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\EstudoNamespaces\obj\Debug\net5.0\EstudoNamespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\EstudoNamespaces\obj\Debug\net5.0\EstudoNamespaces.AssemblyInfoInputs.cache
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\EstudoNamespaces\obj\Debug\net5.0\EstudoNamespaces.AssemblyInfo.cs
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\EstudoNamespaces\obj\Debug\net5.0\EstudoNamespaces.csproj.CoreCompileInputs.cache
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\EstudoNamespaces\obj\Debug\net5.0\EstudoNamespaces.dll
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\EstudoNamespaces\obj\Debug\net5.0\ref\EstudoNamespaces.dll
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\EstudoNamespaces\obj\Debug\net5.0\EstudoNamespaces.pdb
+C:\C# 2022\Estudo-Csharp\EstudoNamespaces\EstudoNamespaces\obj\Debug\net5.0\EstudoNamespaces.genruntimeconfig.cache
